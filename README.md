@@ -11,8 +11,8 @@
   <img src="https://github.com/00zsq/00zsq/blob/main/assets/coding.gif?raw=true" width="230" align="right" alt="Coding" style="border-radius:8px;box-shadow:0 4px 8px rgba(0,0,0,0.1)">
 </div>
 
-- 🎓 **教育**：本科二年级  
-- 🔭 **近况**：深圳前端开发实习中  
+- 🎓 **教育**：本科三年级  
+- 🔭 **近况**：深圳前端开发实习中 -》 已回到学校准备下一段实习  
 - 🌐 **坐标**：中国成都  
 > **"健康开心就好😋😋"**  
 
@@ -49,7 +49,7 @@
 **🎯 2025关键目标**  
 ✅ 大二下实习（get）  
 ✅ wlb  
-⏳ 大三上获取新实习机会  
+⏳ 大三上获取新实习机会（ing）
 
 **🚀 2026+长期规划**  
 🔭 累积三段技术实习  
