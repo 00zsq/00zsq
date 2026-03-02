@@ -30,7 +30,7 @@
 **前端**  
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev/)
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)](https://vuejs.org/)
-[![React Native](https://img.shields.io/badge/React Native-4FC08D?style=flat&logo=reactnative&logoColor=yellow)]([https://vuejs.org](https://reactnative.cn/)/)
+[![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black)](https://reactnative.cn/)
 
 **后端**  
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
