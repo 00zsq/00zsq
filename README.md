@@ -12,8 +12,8 @@
 </div>
 
 - 🎓 **教育**：本科三年级  
-- 🔭 **近况**：深圳前端开发实习中 -> 已回到学校准备下一段实习 -> 实习ing
-- 🌐 **坐标**：中国成都 -> 北京
+- 🔭 **近况**：深圳前端开发实习中 -> 已回到学校准备下一段实习 -> 北京实习 -> 返校考试ing（等待暑期实习）
+- 🌐 **坐标**：中国成都 -> 北京 -> 成都
 > **"健康开心就好😋😋"**  
 
 ---
@@ -30,6 +30,7 @@
 **前端**  
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev/)
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)](https://vuejs.org/)
+[![React Native](https://img.shields.io/badge/React Native-4FC08D?style=flat&logo=reactnative&logoColor=yellow)]([https://vuejs.org](https://reactnative.cn/)/)
 
 **后端**  
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
